@@ -1,0 +1,24 @@
+{
+  "name": "tts-bot",
+  "version": "0.0.1",
+  "description": "Tts discord",
+  "main": "app.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "tts"
+  ],
+  "author": "infi",
+  "license": "BSL-1.0",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "tesseract.js": "^2.1.4"
+  }
+}

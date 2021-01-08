@@ -1,0 +1,7 @@
+.env
+langs.json
+botsettings.json
+*.wav
+node_modules
+*.traineddata
+tts.txt
